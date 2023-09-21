@@ -1,0 +1,12 @@
+nodejs-app/
+│
+├── charts/
+│
+├── templates/
+│   ├-─ deployment.yaml
+│   ├── service.yaml
+│   ├── ingress.yaml
+│
+├── values.yaml
+│
+└── Chart.yaml
